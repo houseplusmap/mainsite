@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Houseplus
+### Adding value to your home
+The first integrated data search and design recommendation site for Bay Area homes.
+![Image](https://www.mercurynews.com/wp-content/uploads/2018/03/233rollinghill-253.jpg?w=863)
+
+
+
+## Below are notes on GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/houseplusmap/mainsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
